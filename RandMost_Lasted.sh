@@ -1,1 +1,0 @@
-echo if saw this,it means that iz successful
